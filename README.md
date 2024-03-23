@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luka
-- 👀 I’m interested in full-stack web development, system administration, computer networking and databases
+- 👀 I’m interested in software development, system administration, computer networking, databases and just tech stuff in general
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me admin@mnogodobar.net
