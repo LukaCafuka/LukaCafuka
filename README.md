@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, system administration, computer networking, databases and just tech stuff in general
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything I can
-- 📫 How to reach me luka@z.com.hr
+- 📫 You can reach me via email - luka@z.com.hr
 
 <!---
 LuxanL/LuxanL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
